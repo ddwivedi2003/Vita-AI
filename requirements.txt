@@ -1,0 +1,7 @@
+streamlit
+pandas
+pydeck
+requests
+streamlit-lottie
+streamlit-js-eval
+openai
